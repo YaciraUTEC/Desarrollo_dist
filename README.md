@@ -13,7 +13,8 @@ Este servicio debe devolver la latitud y longitud de las ciudades utilizando tre
 3. **Valores fijos** (opcional).
 
 ### Método de Cálculo de Distancia
-Implementar un método para calcular la distancia entre dos puntos dados sus latitudes y longitudes.
+
+El archivo `haversine.py` contiene la implementación del método para calcular la distancia entre dos puntos en la superficie de la Tierra dados sus latitudes y longitudes. Este método se basa en la fórmula de Haversine, que es una ecuación importante en la navegación y la geodesia para encontrar la distancia entre dos puntos en una esfera, dada su longitud y latitud
 
 ## Integrantes
 - Yacira Nicol Campoverde
