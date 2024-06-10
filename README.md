@@ -1,4 +1,4 @@
-# Proyecto: Calcular Distancia entre Ciudades
+# Actividad: Calcular Distancia entre Ciudades
 
 ## Descripción
 Este proyecto implementa un programa que recibe como entrada los nombres de dos ciudades y sus respectivos países, y devuelve la distancia entre ellas.
