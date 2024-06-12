@@ -16,7 +16,7 @@ def main():
     elif choice == '3':
         provider = FixedCoordinateProvider()
     else:
-        print("Elección no válida")
+        print("Elección inválida")
         return
 
     city1 = input("Introduce el nombre de la primera ciudad: ")
