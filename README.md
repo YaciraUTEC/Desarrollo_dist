@@ -22,7 +22,7 @@ El archivo `haversine.py` contiene la implementación del método para calcular 
 Ejemplo: Lima, Bogota, Buenos Aires, ***Deberia retomar Lima***.
 2. Realizar eI Request.
 ### Link al repositorio de Github de la dupla de la que son colaboradores  
-[Commit elaborado](https://www.ejemplo.com)
+[Commit elaborado]
 ### Integrantes
 - Yacira Nicol Campoverde
 - Sebastian Rojas Berrios
