@@ -51,5 +51,5 @@ Tomamos en cuenta el formato Precondition, Test Steps, Test Data, Expected Resul
 
 
 ### Integrantes
-- Yacira Nicol Campoverde
+- Yacira Nicol Campoverde San Martín
 - Sebastian Rojas Berrios
