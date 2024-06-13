@@ -37,6 +37,10 @@ Ejemplo: Lima, Bogota, Buenos Aires, ***Deberia retomar Lima***.
 1. Añadimos una carpeta llamada `tests`, dentro de ella se encontrarán 2 archivos: `init.py` y `test_providers`
 2. Implementamos los 3 casos, para eso utilizaremos `unittest`
 3. Ejecutamos las pruebas unitarias `python -m unittest discover -s tests`
+   
+   **Resultado:**
+   Ran 3 tests in 0.523s
+   OK
 
 ### Casos de prueba (Forma Manuel)
 Tomamos en cuenta el formato Precondition, Test Steps, Test Data, Expected Result
