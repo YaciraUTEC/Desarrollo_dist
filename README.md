@@ -17,7 +17,7 @@ Este servicio debe devolver la latitud y longitud de las ciudades utilizando tre
 El archivo `haversine.py` contiene la implementación del método para calcular la distancia entre dos puntos en la superficie de la Tierra dados sus latitudes y longitudes. Este método se basa en la fórmula de Haversine, que es una ecuación importante en la navegación y la geodesia para encontrar la distancia entre dos puntos en una esfera, dada su longitud y latitud
 
 -----------------------------------------------------------
-### Colaboración 
+# Colaboración 
 1. Implementar, en un nuevo Branch (checkout —b) un cambio en el código del repositorio de su compañero con un nuevo **endpoint/opción** de interfaz que reciba tres nombres de ciudad e indique cuales dos se encuentran más cerca (menor distancia en km).
 Ejemplo: Lima, Bogota, Buenos Aires, ***Deberia retomar Lima***.
 2. Realizar eI Request.
