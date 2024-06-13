@@ -1,4 +1,4 @@
-# Actividad: Calcular Distancia entre Ciudades
+# Desarrollo: Calcular Distancia entre Ciudades
 
 ### Descripción
 Este proyecto implementa un programa que recibe como entrada los nombres de dos ciudades y sus respectivos países, y devuelve la distancia entre ellas.
@@ -17,7 +17,7 @@ Este servicio debe devolver la latitud y longitud de las ciudades utilizando tre
 El archivo `haversine.py` contiene la implementación del método para calcular la distancia entre dos puntos en la superficie de la Tierra dados sus latitudes y longitudes. Este método se basa en la fórmula de Haversine, que es una ecuación importante en la navegación y la geodesia para encontrar la distancia entre dos puntos en una esfera, dada su longitud y latitud
 
 -----------------------------------------------------------
-### Cambios solicitados en otro git  
+### Colaboración 
 1. Implementar, en un nuevo Branch (checkout —b) un cambio en el código del repositorio de su compañero con un nuevo **endpoint/opción** de interfaz que reciba tres nombres de ciudad e indique cuales dos se encuentran más cerca (menor distancia en km).
 Ejemplo: Lima, Bogota, Buenos Aires, ***Deberia retomar Lima***.
 2. Realizar eI Request.
@@ -27,7 +27,7 @@ Ejemplo: Lima, Bogota, Buenos Aires, ***Deberia retomar Lima***.
 🚨: ***¡Atención!***  En este caso hemos colocado el link del branch elaborado en nuestro propio git, porque no encontramos una dupla para poder colaborar 🥹
 
 ----------------------------------------------------------------------
-# Actividad 2: Pruebas Unitarias
+# Pruebas Unitarias
 
 * *Caso de Éxito:* Asegura que la aplicación puede calcular la distancia entre dos ciudades válidas.
 * *Caso Extremo 1 (Ciudad No Existente):* Asegura que la aplicación maneje correctamente la situación cuando se proporciona una ciudad que no existe en el archivo CSV.
